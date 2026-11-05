@@ -6,6 +6,8 @@ A small browser game that lets players compete against the computer or other pla
 - Play against other players
 - Create user profiles
 - Save scores
+
+  
 ![Home Screen](images/Home-Screen.png)
 The basic home screen that identifies which profile is currently being used with options to play against a human, a computer, or to expand profile options.
 ![Gameplay Screen](images/Gameplay-Screen.png)
