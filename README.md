@@ -11,9 +11,11 @@ A small browser game that lets players compete against the computer or other pla
 ![Home Screen](images/Home-Screen.png)
 
 The basic home screen that identifies which profile is currently being used with options to play against a human, a computer, or to expand profile options.
+
 ![Gameplay Screen](images/Gameplay-Screen.png)
 
 The actual gameplay screen, three options for both players to pick (local two players work on the honor system, no screen peeking!) Provides two options to continue playing or go back to the main menu and scoring  system that tracks the current total of win, losses, and draws in that specific session.
+
 ![Player Profile](images/Player-Profile.png)
 
 Shows basic information for the currently active profile with match totals, recent history, and the option to change profiles.
